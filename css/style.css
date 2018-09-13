@@ -1,0 +1,98 @@
+.navbar {
+
+}
+
+
+    .nav-link {
+        color: blue;
+        font-family: 'Shadows Into Light', cursive;
+        font-size: 30px;
+        font-weight: bolder;
+        letter-spacing: 3px;
+        padding-left: 15px;
+
+    }
+
+    a.nav-link {
+        text-align: left;
+    }
+
+    nav>a:hover {
+        color: white;
+    }
+
+    .navbar-brand {
+        font-family: 'Shadows Into Light', cursive;
+    }
+
+    #textlogo {
+        font-size: 3em;
+        font-family: 'Monoton', cursive;
+        
+    }
+
+    hr {
+        font-size: 10em;
+        color: gray;
+        height: 100%;
+        width: 50%;
+        font-weight: bolder;
+
+    }
+    
+    .smalltext{
+        font-size: 20px;
+        font-weight: lighter;
+    }
+
+.box{
+    color background: gold;
+}
+
+/* Home page*/
+
+
+
+/* footer*/
+i{
+    font-size: 30px;
+    padding-left:10%;
+    
+}
+
+.smedia{
+    text-align: center;
+    
+}
+
+/*Contact us page*/
+
+.curry{
+   padding-left: 80%;
+   width: 100%;
+   height: 100%;
+}
+
+    /*
+.navbar {
+    background-color: gray;
+    border-radius: 20px;
+    height:10%;
+}
+
+h1{
+    font-family: cursive;
+    font-size: 100px;
+    text-align: center;
+}
+
+
+ul li a.nav-link{
+  color: black;
+  ont-family: 'Indie Flower', cursive;
+}
+
+{
+   
+   
+}*/
